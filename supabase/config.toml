@@ -1,0 +1,4 @@
+project_id = "cwrite"
+
+[functions.ctb-guest]
+verify_jwt = false
